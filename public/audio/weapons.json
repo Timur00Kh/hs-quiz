@@ -1,0 +1,1636 @@
+[
+  {
+    "ammo": "Compact",
+    "name": "Bornheim No. 3",
+    "sounds_info": [
+      {
+        "distance": "1000m",
+        "file": "Bornheim No. 3-01.mp3"
+      },
+      {
+        "distance": "500m",
+        "file": "Bornheim No. 3-02.mp3"
+      },
+      {
+        "distance": "350m",
+        "file": "Bornheim No. 3-03.mp3"
+      },
+      {
+        "distance": "200m",
+        "file": "Bornheim No. 3-04.mp3"
+      },
+      {
+        "distance": "100m",
+        "file": "Bornheim No. 3-05.mp3"
+      },
+      {
+        "distance": "50m",
+        "file": "Bornheim No. 3-06.mp3"
+      },
+      {
+        "distance": "20m",
+        "file": "Bornheim No. 3-07.mp3"
+      },
+      {
+        "distance": "5m",
+        "file": "Bornheim No. 3-08.mp3"
+      },
+      {
+        "distance": "0m",
+        "file": "Bornheim No. 3-09.mp3"
+      }
+    ]
+  },
+  {
+    "ammo": "Special",
+    "name": "Bow",
+    "sounds_info": [
+      {
+        "distance": "50m",
+        "file": "Bow-01.mp3"
+      },
+      {
+        "distance": "20m",
+        "file": "Bow-02.mp3"
+      },
+      {
+        "distance": "5m",
+        "file": "Bow-03.mp3"
+      },
+      {
+        "distance": "0m",
+        "file": "Bow-04.mp3"
+      }
+    ]
+  },
+  {
+    "ammo": "Compact",
+    "name": "Caldwell Conversion Pistol",
+    "sounds_info": [
+      {
+        "distance": "1000m",
+        "file": "Caldwell Conversion Pistol-01.mp3"
+      },
+      {
+        "distance": "500m",
+        "file": "Caldwell Conversion Pistol-02.mp3"
+      },
+      {
+        "distance": "350m",
+        "file": "Caldwell Conversion Pistol-03.mp3"
+      },
+      {
+        "distance": "200m",
+        "file": "Caldwell Conversion Pistol-04.mp3"
+      },
+      {
+        "distance": "100m",
+        "file": "Caldwell Conversion Pistol-05.mp3"
+      },
+      {
+        "distance": "50m",
+        "file": "Caldwell Conversion Pistol-06.mp3"
+      },
+      {
+        "distance": "20m",
+        "file": "Caldwell Conversion Pistol-07.mp3"
+      },
+      {
+        "distance": "5m",
+        "file": "Caldwell Conversion Pistol-08.mp3"
+      },
+      {
+        "distance": "0m",
+        "file": "Caldwell Conversion Pistol-09.mp3"
+      }
+    ]
+  },
+  {
+    "ammo": "Long",
+    "name": "Caldwell Conversion Uppercut",
+    "sounds_info": [
+      {
+        "distance": "1000m",
+        "file": "Caldwell Conversion Uppercut-01.mp3"
+      },
+      {
+        "distance": "500m",
+        "file": "Caldwell Conversion Uppercut-02.mp3"
+      },
+      {
+        "distance": "350m",
+        "file": "Caldwell Conversion Uppercut-03.mp3"
+      },
+      {
+        "distance": "200m",
+        "file": "Caldwell Conversion Uppercut-04.mp3"
+      },
+      {
+        "distance": "100m",
+        "file": "Caldwell Conversion Uppercut-05.mp3"
+      },
+      {
+        "distance": "50m",
+        "file": "Caldwell Conversion Uppercut-06.mp3"
+      },
+      {
+        "distance": "20m",
+        "file": "Caldwell Conversion Uppercut-07.mp3"
+      },
+      {
+        "distance": "5m",
+        "file": "Caldwell Conversion Uppercut-08.mp3"
+      },
+      {
+        "distance": "0m",
+        "file": "Caldwell Conversion Uppercut-09.mp3"
+      }
+    ]
+  },
+  {
+    "ammo": "Long",
+    "name": "Sparks Pistol",
+    "sounds_info": [
+      {
+        "distance": "1000m",
+        "file": "Sparks Pistol-01.mp3"
+      },
+      {
+        "distance": "500m",
+        "file": "Sparks Pistol-02.mp3"
+      },
+      {
+        "distance": "350m",
+        "file": "Sparks Pistol-03.mp3"
+      },
+      {
+        "distance": "200m",
+        "file": "Sparks Pistol-04.mp3"
+      },
+      {
+        "distance": "100m",
+        "file": "Sparks Pistol-05.mp3"
+      },
+      {
+        "distance": "50m",
+        "file": "Sparks Pistol-06.mp3"
+      },
+      {
+        "distance": "20m",
+        "file": "Sparks Pistol-07.mp3"
+      },
+      {
+        "distance": "5m",
+        "file": "Sparks Pistol-08.mp3"
+      },
+      {
+        "distance": "0m",
+        "file": "Sparks Pistol-09.mp3"
+      }
+    ]
+  },
+  {
+    "ammo": "Medium",
+    "name": "Caldwell Pax",
+    "sounds_info": [
+      {
+        "distance": "1000m",
+        "file": "Caldwell Pax-01.mp3"
+      },
+      {
+        "distance": "500m",
+        "file": "Caldwell Pax-02.mp3"
+      },
+      {
+        "distance": "350m",
+        "file": "Caldwell Pax-03.mp3"
+      },
+      {
+        "distance": "200m",
+        "file": "Caldwell Pax-04.mp3"
+      },
+      {
+        "distance": "100m",
+        "file": "Caldwell Pax-05.mp3"
+      },
+      {
+        "distance": "50m",
+        "file": "Caldwell Pax-06.mp3"
+      },
+      {
+        "distance": "20m",
+        "file": "Caldwell Pax-07.mp3"
+      },
+      {
+        "distance": "5m",
+        "file": "Caldwell Pax-08.mp3"
+      },
+      {
+        "distance": "0m",
+        "file": "Caldwell Pax-09.mp3"
+      }
+    ]
+  },
+  {
+    "ammo": "Shotgun",
+    "name": "Caldwell Rival 78",
+    "sounds_info": [
+      {
+        "distance": "1000m",
+        "file": "Caldwell Rival 78-01.mp3"
+      },
+      {
+        "distance": "500m",
+        "file": "Caldwell Rival 78-02.mp3"
+      },
+      {
+        "distance": "350m",
+        "file": "Caldwell Rival 78-03.mp3"
+      },
+      {
+        "distance": "200m",
+        "file": "Caldwell Rival 78-04.mp3"
+      },
+      {
+        "distance": "100m",
+        "file": "Caldwell Rival 78-05.mp3"
+      },
+      {
+        "distance": "50m",
+        "file": "Caldwell Rival 78-06.mp3"
+      },
+      {
+        "distance": "20m",
+        "file": "Caldwell Rival 78-07.mp3"
+      },
+      {
+        "distance": "5m",
+        "file": "Caldwell Rival 78-08.mp3"
+      },
+      {
+        "distance": "0m",
+        "file": "Caldwell Rival 78-09.mp3"
+      }
+    ]
+  },
+  {
+    "ammo": "Special",
+    "name": "Crossbow",
+    "sounds_info": [
+      {
+        "distance": "50m",
+        "file": "Crossbow-01.mp3"
+      },
+      {
+        "distance": "20m",
+        "file": "Crossbow-02.mp3"
+      },
+      {
+        "distance": "5m",
+        "file": "Crossbow-03.mp3"
+      },
+      {
+        "distance": "0m",
+        "file": "Crossbow-04.mp3"
+      }
+    ]
+  },
+  {
+    "ammo": "Shotgun",
+    "name": "Crown & King Auto-5",
+    "sounds_info": [
+      {
+        "distance": "1000m",
+        "file": "Crown & King Auto-5-01.mp3"
+      },
+      {
+        "distance": "500m",
+        "file": "Crown & King Auto-5-02.mp3"
+      },
+      {
+        "distance": "350m",
+        "file": "Crown & King Auto-5-03.mp3"
+      },
+      {
+        "distance": "200m",
+        "file": "Crown & King Auto-5-04.mp3"
+      },
+      {
+        "distance": "100m",
+        "file": "Crown & King Auto-5-05.mp3"
+      },
+      {
+        "distance": "50m",
+        "file": "Crown & King Auto-5-06.mp3"
+      },
+      {
+        "distance": "20m",
+        "file": "Crown & King Auto-5-07.mp3"
+      },
+      {
+        "distance": "5m",
+        "file": "Crown & King Auto-5-08.mp3"
+      },
+      {
+        "distance": "0m",
+        "file": "Crown & King Auto-5-09.mp3"
+      }
+    ]
+  },
+  {
+    "ammo": "Special",
+    "name": "Dolch 96",
+    "sounds_info": [
+      {
+        "distance": "1000m",
+        "file": "Dolch 96-01.mp3"
+      },
+      {
+        "distance": "500m",
+        "file": "Dolch 96-02.mp3"
+      },
+      {
+        "distance": "350m",
+        "file": "Dolch 96-03.mp3"
+      },
+      {
+        "distance": "200m",
+        "file": "Dolch 96-04.mp3"
+      },
+      {
+        "distance": "100m",
+        "file": "Dolch 96-05.mp3"
+      },
+      {
+        "distance": "50m",
+        "file": "Dolch 96-06.mp3"
+      },
+      {
+        "distance": "20m",
+        "file": "Dolch 96-07.mp3"
+      },
+      {
+        "distance": "5m",
+        "file": "Dolch 96-08.mp3"
+      },
+      {
+        "distance": "0m",
+        "file": "Dolch 96-09.mp3"
+      }
+    ]
+  },
+  {
+    "ammo": "Long",
+    "name": "Lebel 1886",
+    "sounds_info": [
+      {
+        "distance": "1000m",
+        "file": "Lebel 1886-01.mp3"
+      },
+      {
+        "distance": "500m",
+        "file": "Lebel 1886-02.mp3"
+      },
+      {
+        "distance": "350m",
+        "file": "Lebel 1886-03.mp3"
+      },
+      {
+        "distance": "200m",
+        "file": "Lebel 1886-04.mp3"
+      },
+      {
+        "distance": "100m",
+        "file": "Lebel 1886-05.mp3"
+      },
+      {
+        "distance": "50m",
+        "file": "Lebel 1886-06.mp3"
+      },
+      {
+        "distance": "20m",
+        "file": "Lebel 1886-07.mp3"
+      },
+      {
+        "distance": "5m",
+        "file": "Lebel 1886-08.mp3"
+      },
+      {
+        "distance": "0m",
+        "file": "Lebel 1886-09.mp3"
+      }
+    ]
+  },
+  {
+    "ammo": "Compact",
+    "name": "LeMat Mark II",
+    "sounds_info": [
+      {
+        "distance": "1000m",
+        "file": "LeMat Mark II-01.mp3"
+      },
+      {
+        "distance": "500m",
+        "file": "LeMat Mark II-02.mp3"
+      },
+      {
+        "distance": "350m",
+        "file": "LeMat Mark II-03.mp3"
+      },
+      {
+        "distance": "200m",
+        "file": "LeMat Mark II-04.mp3"
+      },
+      {
+        "distance": "100m",
+        "file": "LeMat Mark II-05.mp3"
+      },
+      {
+        "distance": "50m",
+        "file": "LeMat Mark II-06.mp3"
+      },
+      {
+        "distance": "20m",
+        "file": "LeMat Mark II-07.mp3"
+      },
+      {
+        "distance": "5m",
+        "file": "LeMat Mark II-08.mp3"
+      },
+      {
+        "distance": "0m",
+        "file": "LeMat Mark II-09.mp3"
+      }
+    ]
+  },
+  {
+    "ammo": "Long",
+    "name": "Martini-Henry IC1",
+    "sounds_info": [
+      {
+        "distance": "1000m",
+        "file": "Martini-Henry IC1-01.mp3"
+      },
+      {
+        "distance": "500m",
+        "file": "Martini-Henry IC1-02.mp3"
+      },
+      {
+        "distance": "350m",
+        "file": "Martini-Henry IC1-03.mp3"
+      },
+      {
+        "distance": "200m",
+        "file": "Martini-Henry IC1-04.mp3"
+      },
+      {
+        "distance": "100m",
+        "file": "Martini-Henry IC1-05.mp3"
+      },
+      {
+        "distance": "50m",
+        "file": "Martini-Henry IC1-06.mp3"
+      },
+      {
+        "distance": "20m",
+        "file": "Martini-Henry IC1-07.mp3"
+      },
+      {
+        "distance": "5m",
+        "file": "Martini-Henry IC1-08.mp3"
+      },
+      {
+        "distance": "0m",
+        "file": "Martini-Henry IC1-09.mp3"
+      }
+    ]
+  },
+  {
+    "ammo": "Long",
+    "name": "Mosin-Nagant M1891 Avtomat",
+    "sounds_info": [
+      {
+        "distance": "1000m",
+        "file": "Mosin-Nagant M1891 Avtomat-01.mp3"
+      },
+      {
+        "distance": "500m",
+        "file": "Mosin-Nagant M1891 Avtomat-02.mp3"
+      },
+      {
+        "distance": "350m",
+        "file": "Mosin-Nagant M1891 Avtomat-03.mp3"
+      },
+      {
+        "distance": "200m",
+        "file": "Mosin-Nagant M1891 Avtomat-04.mp3"
+      },
+      {
+        "distance": "100m",
+        "file": "Mosin-Nagant M1891 Avtomat-05.mp3"
+      },
+      {
+        "distance": "50m",
+        "file": "Mosin-Nagant M1891 Avtomat-06.mp3"
+      },
+      {
+        "distance": "20m",
+        "file": "Mosin-Nagant M1891 Avtomat-07.mp3"
+      },
+      {
+        "distance": "5m",
+        "file": "Mosin-Nagant M1891 Avtomat-08.mp3"
+      },
+      {
+        "distance": "0m",
+        "file": "Mosin-Nagant M1891 Avtomat-09.mp3"
+      }
+    ]
+  },
+  {
+    "ammo": "Long",
+    "name": "Mosin-Nagant M1891",
+    "sounds_info": [
+      {
+        "distance": "1000m",
+        "file": "Mosin-Nagant M1891-01.mp3"
+      },
+      {
+        "distance": "500m",
+        "file": "Mosin-Nagant M1891-02.mp3"
+      },
+      {
+        "distance": "350m",
+        "file": "Mosin-Nagant M1891-03.mp3"
+      },
+      {
+        "distance": "200m",
+        "file": "Mosin-Nagant M1891-04.mp3"
+      },
+      {
+        "distance": "100m",
+        "file": "Mosin-Nagant M1891-05.mp3"
+      },
+      {
+        "distance": "50m",
+        "file": "Mosin-Nagant M1891-06.mp3"
+      },
+      {
+        "distance": "20m",
+        "file": "Mosin-Nagant M1891-07.mp3"
+      },
+      {
+        "distance": "5m",
+        "file": "Mosin-Nagant M1891-08.mp3"
+      },
+      {
+        "distance": "0m",
+        "file": "Mosin-Nagant M1891-09.mp3"
+      }
+    ]
+  },
+  {
+    "ammo": "Compact",
+    "name": "Nagant M1895 Officer",
+    "sounds_info": [
+      {
+        "distance": "1000m",
+        "file": "Nagant M1895 Officer-01.mp3"
+      },
+      {
+        "distance": "500m",
+        "file": "Nagant M1895 Officer-02.mp3"
+      },
+      {
+        "distance": "350m",
+        "file": "Nagant M1895 Officer-03.mp3"
+      },
+      {
+        "distance": "200m",
+        "file": "Nagant M1895 Officer-04.mp3"
+      },
+      {
+        "distance": "100m",
+        "file": "Nagant M1895 Officer-05.mp3"
+      },
+      {
+        "distance": "50m",
+        "file": "Nagant M1895 Officer-06.mp3"
+      },
+      {
+        "distance": "20m",
+        "file": "Nagant M1895 Officer-07.mp3"
+      },
+      {
+        "distance": "5m",
+        "file": "Nagant M1895 Officer-08.mp3"
+      },
+      {
+        "distance": "0m",
+        "file": "Nagant M1895 Officer-09.mp3"
+      }
+    ]
+  },
+  {
+    "ammo": "Compact",
+    "name": "Nagant M1895 Silencer",
+    "sounds_info": [
+      {
+        "distance": "50m",
+        "file": "Nagant M1895 Silencer-01.mp3"
+      },
+      {
+        "distance": "20m",
+        "file": "Nagant M1895 Silencer-02.mp3"
+      },
+      {
+        "distance": "5m",
+        "file": "Nagant M1895 Silencer-03.mp3"
+      },
+      {
+        "distance": "0m",
+        "file": "Nagant M1895 Silencer-04.mp3"
+      }
+    ]
+  },
+  {
+    "ammo": "Special",
+    "name": "Nitro Express Rifle",
+    "sounds_info": [
+      {
+        "distance": "1000m",
+        "file": "Nitro Express Rifle-01.mp3"
+      },
+      {
+        "distance": "500m",
+        "file": "Nitro Express Rifle-02.mp3"
+      },
+      {
+        "distance": "350m",
+        "file": "Nitro Express Rifle-03.mp3"
+      },
+      {
+        "distance": "200m",
+        "file": "Nitro Express Rifle-04.mp3"
+      },
+      {
+        "distance": "100m",
+        "file": "Nitro Express Rifle-05.mp3"
+      },
+      {
+        "distance": "50m",
+        "file": "Nitro Express Rifle-06.mp3"
+      },
+      {
+        "distance": "20m",
+        "file": "Nitro Express Rifle-07.mp3"
+      },
+      {
+        "distance": "5m",
+        "file": "Nitro Express Rifle-08.mp3"
+      },
+      {
+        "distance": "0m",
+        "file": "Nitro Express Rifle-09.mp3"
+      }
+    ]
+  },
+  {
+    "ammo": "Shotgun",
+    "name": "Romero 77",
+    "sounds_info": [
+      {
+        "distance": "1000m",
+        "file": "Romero 77-01.mp3"
+      },
+      {
+        "distance": "500m",
+        "file": "Romero 77-02.mp3"
+      },
+      {
+        "distance": "350m",
+        "file": "Romero 77-03.mp3"
+      },
+      {
+        "distance": "200m",
+        "file": "Romero 77-04.mp3"
+      },
+      {
+        "distance": "100m",
+        "file": "Romero 77-05.mp3"
+      },
+      {
+        "distance": "50m",
+        "file": "Romero 77-06.mp3"
+      },
+      {
+        "distance": "20m",
+        "file": "Romero 77-07.mp3"
+      },
+      {
+        "distance": "5m",
+        "file": "Romero 77-08.mp3"
+      },
+      {
+        "distance": "0m",
+        "file": "Romero 77-09.mp3"
+      }
+    ]
+  },
+  {
+    "ammo": "Long",
+    "name": "Sparks LRR Silencer",
+    "sounds_info": [
+      {
+        "distance": "50m",
+        "file": "Sparks LRR Silencer-01.mp3"
+      },
+      {
+        "distance": "20m",
+        "file": "Sparks LRR Silencer-02.mp3"
+      },
+      {
+        "distance": "5m",
+        "file": "Sparks LRR Silencer-03.mp3"
+      },
+      {
+        "distance": "0m",
+        "file": "Sparks LRR Silencer-04.mp3"
+      }
+    ]
+  },
+  {
+    "ammo": "Long",
+    "name": "Sparks LRR",
+    "sounds_info": [
+      {
+        "distance": "1000m",
+        "file": "Sparks LRR-01.mp3"
+      },
+      {
+        "distance": "500m",
+        "file": "Sparks LRR-02.mp3"
+      },
+      {
+        "distance": "350m",
+        "file": "Sparks LRR-03.mp3"
+      },
+      {
+        "distance": "200m",
+        "file": "Sparks LRR-04.mp3"
+      },
+      {
+        "distance": "100m",
+        "file": "Sparks LRR-05.mp3"
+      },
+      {
+        "distance": "50m",
+        "file": "Sparks LRR-06.mp3"
+      },
+      {
+        "distance": "20m",
+        "file": "Sparks LRR-07.mp3"
+      },
+      {
+        "distance": "5m",
+        "file": "Sparks LRR-08.mp3"
+      },
+      {
+        "distance": "0m",
+        "file": "Sparks LRR-09.mp3"
+      }
+    ]
+  },
+  {
+    "ammo": "Shotgun",
+    "name": "Specter 1882",
+    "sounds_info": [
+      {
+        "distance": "1000m",
+        "file": "Specter 1882-01.mp3"
+      },
+      {
+        "distance": "500m",
+        "file": "Specter 1882-02.mp3"
+      },
+      {
+        "distance": "350m",
+        "file": "Specter 1882-03.mp3"
+      },
+      {
+        "distance": "200m",
+        "file": "Specter 1882-04.mp3"
+      },
+      {
+        "distance": "100m",
+        "file": "Specter 1882-05.mp3"
+      },
+      {
+        "distance": "50m",
+        "file": "Specter 1882-06.mp3"
+      },
+      {
+        "distance": "20m",
+        "file": "Specter 1882-07.mp3"
+      },
+      {
+        "distance": "5m",
+        "file": "Specter 1882-08.mp3"
+      },
+      {
+        "distance": "0m",
+        "file": "Specter 1882-09.mp3"
+      }
+    ]
+  },
+  {
+    "ammo": "Medium",
+    "name": "Springfield 1866",
+    "sounds_info": [
+      {
+        "distance": "1000m",
+        "file": "Springfield 1866-01.mp3"
+      },
+      {
+        "distance": "500m",
+        "file": "Springfield 1866-02.mp3"
+      },
+      {
+        "distance": "350m",
+        "file": "Springfield 1866-03.mp3"
+      },
+      {
+        "distance": "200m",
+        "file": "Springfield 1866-04.mp3"
+      },
+      {
+        "distance": "100m",
+        "file": "Springfield 1866-05.mp3"
+      },
+      {
+        "distance": "50m",
+        "file": "Springfield 1866-06.mp3"
+      },
+      {
+        "distance": "20m",
+        "file": "Springfield 1866-07.mp3"
+      },
+      {
+        "distance": "5m",
+        "file": "Springfield 1866-08.mp3"
+      },
+      {
+        "distance": "0m",
+        "file": "Springfield 1866-09.mp3"
+      }
+    ]
+  },
+  {
+    "ammo": "Medium",
+    "name": "Vetterli 71 Karabiner",
+    "sounds_info": [
+      {
+        "distance": "1000m",
+        "file": "Vetterli 71 Karabiner-01.mp3"
+      },
+      {
+        "distance": "500m",
+        "file": "Vetterli 71 Karabiner-02.mp3"
+      },
+      {
+        "distance": "350m",
+        "file": "Vetterli 71 Karabiner-03.mp3"
+      },
+      {
+        "distance": "200m",
+        "file": "Vetterli 71 Karabiner-04.mp3"
+      },
+      {
+        "distance": "100m",
+        "file": "Vetterli 71 Karabiner-05.mp3"
+      },
+      {
+        "distance": "50m",
+        "file": "Vetterli 71 Karabiner-06.mp3"
+      },
+      {
+        "distance": "20m",
+        "file": "Vetterli 71 Karabiner-07.mp3"
+      },
+      {
+        "distance": "5m",
+        "file": "Vetterli 71 Karabiner-08.mp3"
+      },
+      {
+        "distance": "0m",
+        "file": "Vetterli 71 Karabiner-09.mp3"
+      }
+    ]
+  },
+  {
+    "ammo": "Shotgun",
+    "name": "Winfield 1887 Terminus",
+    "sounds_info": [
+      {
+        "distance": "1000m",
+        "file": "Winfield 1887 Terminus-01.mp3"
+      },
+      {
+        "distance": "500m",
+        "file": "Winfield 1887 Terminus-02.mp3"
+      },
+      {
+        "distance": "350m",
+        "file": "Winfield 1887 Terminus-03.mp3"
+      },
+      {
+        "distance": "200m",
+        "file": "Winfield 1887 Terminus-04.mp3"
+      },
+      {
+        "distance": "100m",
+        "file": "Winfield 1887 Terminus-05.mp3"
+      },
+      {
+        "distance": "50m",
+        "file": "Winfield 1887 Terminus-06.mp3"
+      },
+      {
+        "distance": "20m",
+        "file": "Winfield 1887 Terminus-07.mp3"
+      },
+      {
+        "distance": "5m",
+        "file": "Winfield 1887 Terminus-08.mp3"
+      },
+      {
+        "distance": "0m",
+        "file": "Winfield 1887 Terminus-09.mp3"
+      }
+    ]
+  },
+  {
+    "ammo": "Compact",
+    "name": "Winfield M1873C Silencer",
+    "sounds_info": [
+      {
+        "distance": "50m",
+        "file": "Winfield M1873C Silencer-01.mp3"
+      },
+      {
+        "distance": "20m",
+        "file": "Winfield M1873C Silencer-02.mp3"
+      },
+      {
+        "distance": "5m",
+        "file": "Winfield M1873C Silencer-03.mp3"
+      },
+      {
+        "distance": "0m",
+        "file": "Winfield M1873C Silencer-04.mp3"
+      }
+    ]
+  },
+  {
+    "ammo": "Compact",
+    "name": "Winfield M1873C",
+    "sounds_info": [
+      {
+        "distance": "1000m",
+        "file": "Winfield M1873C-01.mp3"
+      },
+      {
+        "distance": "500m",
+        "file": "Winfield M1873C-02.mp3"
+      },
+      {
+        "distance": "350m",
+        "file": "Winfield M1873C-03.mp3"
+      },
+      {
+        "distance": "200m",
+        "file": "Winfield M1873C-04.mp3"
+      },
+      {
+        "distance": "100m",
+        "file": "Winfield M1873C-05.mp3"
+      },
+      {
+        "distance": "50m",
+        "file": "Winfield M1873C-06.mp3"
+      },
+      {
+        "distance": "20m",
+        "file": "Winfield M1873C-07.mp3"
+      },
+      {
+        "distance": "5m",
+        "file": "Winfield M1873C-08.mp3"
+      },
+      {
+        "distance": "0m",
+        "file": "Winfield M1873C-09.mp3"
+      }
+    ]
+  },
+  {
+    "ammo": "Medium",
+    "name": "Winfield M1876 Centennial",
+    "sounds_info": [
+      {
+        "distance": "1000m",
+        "file": "Winfield M1876 Centennial-01.mp3"
+      },
+      {
+        "distance": "500m",
+        "file": "Winfield M1876 Centennial-02.mp3"
+      },
+      {
+        "distance": "350m",
+        "file": "Winfield M1876 Centennial-03.mp3"
+      },
+      {
+        "distance": "200m",
+        "file": "Winfield M1876 Centennial-04.mp3"
+      },
+      {
+        "distance": "100m",
+        "file": "Winfield M1876 Centennial-05.mp3"
+      },
+      {
+        "distance": "50m",
+        "file": "Winfield M1876 Centennial-06.mp3"
+      },
+      {
+        "distance": "20m",
+        "file": "Winfield M1876 Centennial-07.mp3"
+      },
+      {
+        "distance": "5m",
+        "file": "Winfield M1876 Centennial-08.mp3"
+      },
+      {
+        "distance": "0m",
+        "file": "Winfield M1876 Centennial-09.mp3"
+      }
+    ]
+  },
+  {
+    "ammo": "Special",
+    "name": "Flare Pistol",
+    "sounds_info": [
+      {
+        "distance": "150m",
+        "file": "Flare Pistol-01.mp3"
+      },
+      {
+        "distance": "100m",
+        "file": "Flare Pistol-02.mp3"
+      },
+      {
+        "distance": "50m",
+        "file": "Flare Pistol-03.mp3"
+      },
+      {
+        "distance": "20m",
+        "file": "Flare Pistol-04.mp3"
+      },
+      {
+        "distance": "5m",
+        "file": "Flare Pistol-05.mp3"
+      },
+      {
+        "distance": "0m",
+        "file": "Flare Pistol-06.mp3"
+      }
+    ]
+  },
+  {
+    "ammo": "Special",
+    "name": "Quad Derringer",
+    "sounds_info": [
+      {
+        "distance": "450m",
+        "file": "Quad Derringer-01.mp3"
+      },
+      {
+        "distance": "400m",
+        "file": "Quad Derringer-02.mp3"
+      },
+      {
+        "distance": "350m",
+        "file": "Quad Derringer-03.mp3"
+      },
+      {
+        "distance": "200m",
+        "file": "Quad Derringer-04.mp3"
+      },
+      {
+        "distance": "100m",
+        "file": "Quad Derringer-05.mp3"
+      },
+      {
+        "distance": "50m",
+        "file": "Quad Derringer-06.mp3"
+      },
+      {
+        "distance": "20m",
+        "file": "Quad Derringer-07.mp3"
+      },
+      {
+        "distance": "5m",
+        "file": "Quad Derringer-08.mp3"
+      },
+      {
+        "distance": "0m",
+        "file": "Quad Derringer-09.mp3"
+      }
+    ]
+  },
+  {
+    "ammo": "Medium",
+    "name": "Scottfied Model 3",
+    "sounds_info": [
+      {
+        "distance": "1000m",
+        "file": "Scottfied Model 3-01.mp3"
+      },
+      {
+        "distance": "500m",
+        "file": "Scottfied Model 3-02.mp3"
+      },
+      {
+        "distance": "350m",
+        "file": "Scottfied Model 3-03.mp3"
+      },
+      {
+        "distance": "200m",
+        "file": "Scottfied Model 3-04.mp3"
+      },
+      {
+        "distance": "100m",
+        "file": "Scottfied Model 3-05.mp3"
+      },
+      {
+        "distance": "50m",
+        "file": "Scottfied Model 3-06.mp3"
+      },
+      {
+        "distance": "20m",
+        "file": "Scottfied Model 3-07.mp3"
+      },
+      {
+        "distance": "5m",
+        "file": "Scottfied Model 3-08.mp3"
+      },
+      {
+        "distance": "0m",
+        "file": "Scottfied Model 3-09.mp3"
+      }
+    ]
+  },
+  {
+    "ammo": "Medium",
+    "name": "Vetterli 71 Karabiner Silencer",
+    "sounds_info": [
+      {
+        "distance": "50m",
+        "file": "Vetterli 71 Karabiner Silencer-01.mp3"
+      },
+      {
+        "distance": "20m",
+        "file": "Vetterli 71 Karabiner Silencer-02.mp3"
+      },
+      {
+        "distance": "5m",
+        "file": "Vetterli 71 Karabiner Silencer-03.mp3"
+      },
+      {
+        "distance": "0m",
+        "file": "Vetterli 71 Karabiner Silencer-04.mp3"
+      }
+    ]
+  },
+  {
+    "ammo": "Long",
+    "name": "Berthier Mle 1892",
+    "sounds_info": [
+      {
+        "distance": "1000m",
+        "file": "Berthier Mle 1892-01.mp3"
+      },
+      {
+        "distance": "500m",
+        "file": "Berthier Mle 1892-02.mp3"
+      },
+      {
+        "distance": "350m",
+        "file": "Berthier Mle 1892-03.mp3"
+      },
+      {
+        "distance": "200m",
+        "file": "Berthier Mle 1892-04.mp3"
+      },
+      {
+        "distance": "100m",
+        "file": "Berthier Mle 1892-05.mp3"
+      },
+      {
+        "distance": "50m",
+        "file": "Berthier Mle 1892-06.mp3"
+      },
+      {
+        "distance": "20m",
+        "file": "Berthier Mle 1892-07.mp3"
+      },
+      {
+        "distance": "5m",
+        "file": "Berthier Mle 1892-08.mp3"
+      },
+      {
+        "distance": "0m",
+        "file": "Berthier Mle 1892-09.mp3"
+      }
+    ]
+  },
+  {
+    "ammo": "Shotgun",
+    "name": "Windfield 1893 Slate",
+    "sounds_info": [
+      {
+        "distance": "1000m",
+        "file": "Windfield 1893 Slate-01.mp3"
+      },
+      {
+        "distance": "500m",
+        "file": "Windfield 1893 Slate-02.mp3"
+      },
+      {
+        "distance": "350m",
+        "file": "Windfield 1893 Slate-03.mp3"
+      },
+      {
+        "distance": "200m",
+        "file": "Windfield 1893 Slate-04.mp3"
+      },
+      {
+        "distance": "100m",
+        "file": "Windfield 1893 Slate-05.mp3"
+      },
+      {
+        "distance": "50m",
+        "file": "Windfield 1893 Slate-06.mp3"
+      },
+      {
+        "distance": "20m",
+        "file": "Windfield 1893 Slate-07.mp3"
+      },
+      {
+        "distance": "5m",
+        "file": "Windfield 1893 Slate-08.mp3"
+      },
+      {
+        "distance": "0m",
+        "file": "Windfield 1893 Slate-09.mp3"
+      }
+    ]
+  },
+  {
+    "ammo": "Compact",
+    "name": "Caldwell 92 New army",
+    "sounds_info": [
+      {
+        "distance": "1000m",
+        "file": "Caldwell 92 New army-01.mp3"
+      },
+      {
+        "distance": "500m",
+        "file": "Caldwell 92 New army-02.mp3"
+      },
+      {
+        "distance": "350m",
+        "file": "Caldwell 92 New army-03.mp3"
+      },
+      {
+        "distance": "200m",
+        "file": "Caldwell 92 New army-04.mp3"
+      },
+      {
+        "distance": "100m",
+        "file": "Caldwell 92 New army-05.mp3"
+      },
+      {
+        "distance": "50m",
+        "file": "Caldwell 92 New army-06.mp3"
+      },
+      {
+        "distance": "20m",
+        "file": "Caldwell 92 New army-07.mp3"
+      },
+      {
+        "distance": "5m",
+        "file": "Caldwell 92 New army-08.mp3"
+      },
+      {
+        "distance": "0m",
+        "file": "Caldwell 92 New army-09.mp3"
+      }
+    ]
+  },
+  {
+    "ammo": "Long",
+    "name": "Springfield M1892 Krag",
+    "sounds_info": [
+      {
+        "distance": "1000m",
+        "file": "Springfield M1892 Krag-01.mp3"
+      },
+      {
+        "distance": "500m",
+        "file": "Springfield M1892 Krag-02.mp3"
+      },
+      {
+        "distance": "350m",
+        "file": "Springfield M1892 Krag-03.mp3"
+      },
+      {
+        "distance": "200m",
+        "file": "Springfield M1892 Krag-04.mp3"
+      },
+      {
+        "distance": "100m",
+        "file": "Springfield M1892 Krag-05.mp3"
+      },
+      {
+        "distance": "50m",
+        "file": "Springfield M1892 Krag-06.mp3"
+      },
+      {
+        "distance": "20m",
+        "file": "Springfield M1892 Krag-07.mp3"
+      },
+      {
+        "distance": "5m",
+        "file": "Springfield M1892 Krag-08.mp3"
+      },
+      {
+        "distance": "0m",
+        "file": "Springfield M1892 Krag-09.mp3"
+      }
+    ]
+  },
+  {
+    "ammo": "Medium",
+    "name": "Drilling",
+    "sounds_info": [
+      {
+        "distance": "1000m",
+        "file": "Drilling-01.mp3"
+      },
+      {
+        "distance": "500m",
+        "file": "Drilling-02.mp3"
+      },
+      {
+        "distance": "350m",
+        "file": "Drilling-03.mp3"
+      },
+      {
+        "distance": "200m",
+        "file": "Drilling-04.mp3"
+      },
+      {
+        "distance": "100m",
+        "file": "Drilling-05.mp3"
+      },
+      {
+        "distance": "50m",
+        "file": "Drilling-06.mp3"
+      },
+      {
+        "distance": "20m",
+        "file": "Drilling-07.mp3"
+      },
+      {
+        "distance": "5m",
+        "file": "Drilling-08.mp3"
+      },
+      {
+        "distance": "0m",
+        "file": "Drilling-09.mp3"
+      }
+    ]
+  },
+  {
+    "ammo": "Medium",
+    "name": "Vetterli 71 Karabiner Cyclone",
+    "sounds_info": [
+      {
+        "distance": "1000m",
+        "file": "Vetterli 71 Karabiner Cyclone-01.mp3"
+      },
+      {
+        "distance": "500m",
+        "file": "Vetterli 71 Karabiner Cyclone-02.mp3"
+      },
+      {
+        "distance": "350m",
+        "file": "Vetterli 71 Karabiner Cyclone-03.mp3"
+      },
+      {
+        "distance": "200m",
+        "file": "Vetterli 71 Karabiner Cyclone-04.mp3"
+      },
+      {
+        "distance": "100m",
+        "file": "Vetterli 71 Karabiner Cyclone-05.mp3"
+      },
+      {
+        "distance": "50m",
+        "file": "Vetterli 71 Karabiner Cyclone-06.mp3"
+      },
+      {
+        "distance": "20m",
+        "file": "Vetterli 71 Karabiner Cyclone-07.mp3"
+      },
+      {
+        "distance": "5m",
+        "file": "Vetterli 71 Karabiner Cyclone-08.mp3"
+      },
+      {
+        "distance": "0m",
+        "file": "Vetterli 71 Karabiner Cyclone-09.mp3"
+      }
+    ]
+  },
+  {
+    "ammo": "Long",
+    "name": "LeMat Mark II UpperMat",
+    "sounds_info": [
+      {
+        "distance": "1000m",
+        "file": "LeMat Mark II UpperMat-01.mp3"
+      },
+      {
+        "distance": "500m",
+        "file": "LeMat Mark II UpperMat-02.mp3"
+      },
+      {
+        "distance": "350m",
+        "file": "LeMat Mark II UpperMat-03.mp3"
+      },
+      {
+        "distance": "200m",
+        "file": "LeMat Mark II UpperMat-04.mp3"
+      },
+      {
+        "distance": "100m",
+        "file": "LeMat Mark II UpperMat-05.mp3"
+      },
+      {
+        "distance": "50m",
+        "file": "LeMat Mark II UpperMat-06.mp3"
+      },
+      {
+        "distance": "20m",
+        "file": "LeMat Mark II UpperMat-07.mp3"
+      },
+      {
+        "distance": "5m",
+        "file": "LeMat Mark II UpperMat-08.mp3"
+      },
+      {
+        "distance": "0m",
+        "file": "LeMat Mark II UpperMat-09.mp3"
+      }
+    ]
+  },
+  {
+    "ammo": "Medium",
+    "name": "Caldwell Pax Trueshot",
+    "sounds_info": [
+      {
+        "distance": "1000m",
+        "file": "Caldwell Pax Trueshot-01.mp3"
+      },
+      {
+        "distance": "500m",
+        "file": "Caldwell Pax Trueshot-02.mp3"
+      },
+      {
+        "distance": "350m",
+        "file": "Caldwell Pax Trueshot-03.mp3"
+      },
+      {
+        "distance": "200m",
+        "file": "Caldwell Pax Trueshot-04.mp3"
+      },
+      {
+        "distance": "100m",
+        "file": "Caldwell Pax Trueshot-05.mp3"
+      },
+      {
+        "distance": "50m",
+        "file": "Caldwell Pax Trueshot-06.mp3"
+      },
+      {
+        "distance": "20m",
+        "file": "Caldwell Pax Trueshot-07.mp3"
+      },
+      {
+        "distance": "5m",
+        "file": "Caldwell Pax Trueshot-08.mp3"
+      },
+      {
+        "distance": "0m",
+        "file": "Caldwell Pax Trueshot-09.mp3"
+      }
+    ]
+  },
+  {
+    "ammo": "Compact",
+    "name": "Caldwell Marathon",
+    "sounds_info": [
+      {
+        "distance": "1000m",
+        "file": "Caldwell Marathon-01.mp3"
+      },
+      {
+        "distance": "500m",
+        "file": "Caldwell Marathon-02.mp3"
+      },
+      {
+        "distance": "350m",
+        "file": "Caldwell Marathon-03.mp3"
+      },
+      {
+        "distance": "200m",
+        "file": "Caldwell Marathon-04.mp3"
+      },
+      {
+        "distance": "100m",
+        "file": "Caldwell Marathon-05.mp3"
+      },
+      {
+        "distance": "50m",
+        "file": "Caldwell Marathon-06.mp3"
+      },
+      {
+        "distance": "20m",
+        "file": "Caldwell Marathon-07.mp3"
+      },
+      {
+        "distance": "5m",
+        "file": "Caldwell Marathon-08.mp3"
+      },
+      {
+        "distance": "0m",
+        "file": "Caldwell Marathon-09.mp3"
+      }
+    ]
+  },
+  {
+    "ammo": "Compact",
+    "name": "Bornheim n°3 Silencer",
+    "sounds_info": [
+      {
+        "distance": "50m",
+        "file": "Bornheim n°3 Silencer-01.mp3"
+      },
+      {
+        "distance": "20m",
+        "file": "Bornheim n°3 Silencer-02.mp3"
+      },
+      {
+        "distance": "5m",
+        "file": "Bornheim n°3 Silencer-03.mp3"
+      },
+      {
+        "distance": "0m",
+        "file": "Bornheim n°3 Silencer-04.mp3"
+      }
+    ]
+  },
+  {
+    "ammo": "Medium",
+    "name": "Winfield M1876 Centennial Shorty Silencer",
+    "sounds_info": [
+      {
+        "distance": "50m",
+        "file": "Winfield M1876 Centennial Shorty Silencer-01.mp3"
+      },
+      {
+        "distance": "20m",
+        "file": "Winfield M1876 Centennial Shorty Silencer-02.mp3"
+      },
+      {
+        "distance": "5m",
+        "file": "Winfield M1876 Centennial Shorty Silencer-03.mp3"
+      },
+      {
+        "distance": "0m",
+        "file": "Winfield M1876 Centennial Shorty Silencer-04.mp3"
+      }
+    ]
+  }
+]
