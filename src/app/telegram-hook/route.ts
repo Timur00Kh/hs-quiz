@@ -3,7 +3,7 @@ import { NextResponse, NextRequest } from "next/server";
 
 const bot = new Telegraf(process.env.BOT_TOKEN!);
 
-export async function handleOnMessage(ctx: TelegrafContext) {
+async function handleOnMessage(ctx: TelegrafContext) {
   const { message } = ctx;
 
   if (!message) return;
